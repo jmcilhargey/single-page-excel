@@ -1,0 +1,27 @@
+{
+  "name": "excel-manu",
+  "version": "1.0.0",
+  "description": "Single page MEAN business app",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmcilhargey/single-page-excel.git"
+  },
+  "author": "Joe McIlhargey",
+  "dependencies": {
+    "async": "~0.2.8",
+    "body-parser": "^1.15.0",
+    "express": "^3.2.6",
+    "mongoose": "^4.4.8",
+    "socket.io": "~0.9.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmcilhargey/single-page-excel/issues"
+  },
+  "homepage": "https://github.com/jmcilhargey/single-page-excel#readme"
+}
